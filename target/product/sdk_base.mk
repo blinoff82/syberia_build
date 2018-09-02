@@ -21,7 +21,7 @@ PRODUCT_PACKAGES := \
 	CubeLiveWallpapers \
 	CustomLocale \
 	Development \
-	Dialer \
+#	Dialer \
 	Gallery2 \
 	Launcher3QuickStep \
 	Camera2 \
